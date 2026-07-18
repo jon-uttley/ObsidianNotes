@@ -1,0 +1,1 @@
+https://github.com/jon-uttley/ObsidianNotes.git
