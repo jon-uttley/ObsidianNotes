@@ -1,1 +1,3 @@
-14/0
+14/06 Update call
+- reviewed current position
+- 
